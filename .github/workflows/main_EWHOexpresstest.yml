@@ -94,7 +94,7 @@ jobs:
 
 
 
-      - name: 'Deploy to Azure Web App'
+      - name: 'Deploy  to Azure Web App'
 
         id: deploy-to-webapp
 
